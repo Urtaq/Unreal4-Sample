@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# UnrealEngine
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.log
+Content/Freebie_01
+Content/AnimStarterPack
+Content/MobileStarterContent
